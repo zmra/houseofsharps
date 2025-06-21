@@ -1,6 +1,6 @@
 # House of Sharps
 
-![icon](hosico.png)
+![icon](hosico.png){: width="1024" }
 
 The Gen-X game of cleaning out your parents' house.  You never asked for this, but here it is! 
 
