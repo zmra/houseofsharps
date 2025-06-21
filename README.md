@@ -1,5 +1,5 @@
-# House of Sharps 
-<img src="hosico.png" width=100>
+
+# <img src="hosico.png" width=100> House of Sharps 
 
 
 The Gen-X game of cleaning out your parents' house.  You never asked for this, but here it is! 
