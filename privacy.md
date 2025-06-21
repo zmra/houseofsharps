@@ -1,6 +1,7 @@
 # Privacy Policy
 
 This is a silly little game that does not need to know much about you. 
+
 No information is explicitly collected beyond whatever Apple defaults to for simple Apps, and even there, I've turned off every option I can. 
 
 To that end, we will never need to collect or maintain:
